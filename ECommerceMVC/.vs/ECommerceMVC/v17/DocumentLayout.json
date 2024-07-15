@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\webmvc\\ECommerceMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DDE051-36D8-4B0A-8F41-DC18338BB125}|ECommerceMVC\\ECommerceMVC.csproj|d:\\projects\\webmvc\\ecommercemvc\\ecommercemvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1DDE051-36D8-4B0A-8F41-DC18338BB125}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DDE051-36D8-4B0A-8F41-DC18338BB125}|ECommerceMVC\\ECommerceMVC.csproj|d:\\projects\\webmvc\\ecommercemvc\\ecommercemvc\\views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1DDE051-36D8-4B0A-8F41-DC18338BB125}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DDE051-36D8-4B0A-8F41-DC18338BB125}|ECommerceMVC\\ECommerceMVC.csproj|d:\\projects\\webmvc\\ecommercemvc\\ecommercemvc\\viewmodels\\cartitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DDE051-36D8-4B0A-8F41-DC18338BB125}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\viewmodels\\cartitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DDE051-36D8-4B0A-8F41-DC18338BB125}|ECommerceMVC\\ECommerceMVC.csproj|d:\\projects\\webmvc\\ecommercemvc\\ecommercemvc\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DDE051-36D8-4B0A-8F41-DC18338BB125}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DDE051-36D8-4B0A-8F41-DC18338BB125}|ECommerceMVC\\ECommerceMVC.csproj|d:\\projects\\webmvc\\ecommercemvc\\ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DDE051-36D8-4B0A-8F41-DC18338BB125}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DDE051-36D8-4B0A-8F41-DC18338BB125}|ECommerceMVC\\ECommerceMVC.csproj|d:\\projects\\webmvc\\ecommercemvc\\ecommercemvc\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1DDE051-36D8-4B0A-8F41-DC18338BB125}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DDE051-36D8-4B0A-8F41-DC18338BB125}|ECommerceMVC\\ECommerceMVC.csproj|d:\\projects\\webmvc\\ecommercemvc\\ecommercemvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DDE051-36D8-4B0A-8F41-DC18338BB125}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "D:\\projects\\webmvc\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "D:\\projects\\webmvc\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAQwD8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T08:49:52.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartPanel.cshtml",
+              "DocumentMoniker": "D:\\projects\\webmvc\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ToolTip": "D:\\projects\\webmvc\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T08:48:50.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "D:\\projects\\webmvc\\ECommerceMVC\\ECommerceMVC\\ViewComponents\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\ViewComponents\\CartViewComponent.cs",
+              "ToolTip": "D:\\projects\\webmvc\\ECommerceMVC\\ECommerceMVC\\ViewComponents\\CartViewComponent.cs",
+              "RelativeToolTip": "ECommerceMVC\\ViewComponents\\CartViewComponent.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:35:37.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\webmvc\\ECommerceMVC\\ECommerceMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Program.cs",
+              "ToolTip": "D:\\projects\\webmvc\\ECommerceMVC\\ECommerceMVC\\Program.cs",
+              "RelativeToolTip": "ECommerceMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:31:23.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\projects\\webmvc\\ECommerceMVC\\ECommerceMVC\\Views\\GioHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\GioHang\\Index.cshtml",
+              "ToolTip": "D:\\projects\\webmvc\\ECommerceMVC\\ECommerceMVC\\Views\\GioHang\\Index.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\GioHang\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwEIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T09:12:09.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartItemVM.cs",
+              "DocumentMoniker": "D:\\projects\\webmvc\\ECommerceMVC\\ECommerceMVC\\ViewModels\\CartItemVM.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\ViewModels\\CartItemVM.cs",
+              "ToolTip": "D:\\projects\\webmvc\\ECommerceMVC\\ECommerceMVC\\ViewModels\\CartItemVM.cs",
+              "RelativeToolTip": "ECommerceMVC\\ViewModels\\CartItemVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:31:55.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "D:\\projects\\webmvc\\ECommerceMVC\\ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\projects\\webmvc\\ECommerceMVC\\ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAUwDwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:47:14.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
